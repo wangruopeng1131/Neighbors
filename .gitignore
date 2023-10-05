@@ -1,0 +1,7 @@
+.idea
+cmake-build-debug
+cmake-build-release
+result
+vcpkg.json
+test-100
+test_data
